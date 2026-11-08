@@ -1,5 +1,9 @@
 Este repositorio contiene el análisis realizado durante el Sprint 7 del caso ConnectaTel.
 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
 El proyecto trabaja con tres datasets: `plans.csv`, `users_latam.csv` y `usage.csv`, que incluyen información de planes, clientes y uso real de servicios de una empresa de telecomunicaciones en LATAM. Los datos contienen valores faltantes, sentinels, outliers y problemas de calidad diseñados para simular datos reales del sector.
 
 ## 📂 Contenido del repositorio
